@@ -394,3 +394,4 @@
 2024-02-09 13:12:51,039	ERROR	当前座位状态不应当签离
 2024-02-09 21:38:10,993	ERROR	参数错误
 2024-02-09 22:06:45,005	ERROR	Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2024-02-09 23:43:37,302	INFO	请在图书馆局域网内进行操作
