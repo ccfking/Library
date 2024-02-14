@@ -413,3 +413,4 @@
 2024-02-13 23:43:41,262	ERROR	当前座位状态不应当签到
 2024-02-14 13:12:44,471	ERROR	当前座位状态不应当签离
 2024-02-14 21:38:12,788	ERROR	参数错误
+2024-02-14 22:06:54,712	ERROR	Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
