@@ -465,3 +465,4 @@
 2024-02-26 23:43:57,614	ERROR	当前没有正在使用中的座位或研讨间
 2024-02-27 13:12:53,752	ERROR	当前没有正在使用中的座位或研讨间
 2024-02-27 21:39:03,528	ERROR	('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-02-27 22:06:53,608	INFO	预约成功
