@@ -467,3 +467,4 @@
 2024-02-27 21:39:03,528	ERROR	('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 2024-02-27 22:06:53,608	INFO	预约成功
 2024-02-27 23:44:46,649	ERROR	当前座位状态不应当签到
+2024-02-28 13:13:58,203	ERROR	当前座位状态不应当签离
